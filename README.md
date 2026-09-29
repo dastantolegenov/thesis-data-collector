@@ -18,7 +18,7 @@ Master's thesis on behavioral biometrics (Antalya Bilim University).
 ## Setup (once)
 
 1. Download this repository: green **Code** button -> **Download ZIP**, then unzip.
-   (Or: `git clone https://github.com/<your-username>/thesis-data-collector.git`)
+   (Or: `git clone https://github.com/dastantolegenov/thesis-data-collector.git`)
 2. Open a terminal **inside the unzipped folder**.
 3. Install the library: pip install pynput
 
